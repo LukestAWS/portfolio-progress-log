@@ -1,7 +1,10 @@
 # LukestAWS Portfolio Progress Log 🚀
 
-**Current Date:** 15 Dec 2025  
-**Overall Goal:** 4 live projects → £80k–£120k+ AWS/cloud job by Apr 2026  
+**Live Portfolio Site:** https://lukestaws.github.io  
+**Future Consultancy Site:** aws4less.co.uk (Week 3 migrate)
+
+**Current Status (Updated 15 Dec 2025)**
+
 **Momentum:** Weeks 1–2 100% COMPLETE EARLY – Production deploy + public demo LIVE
 
 ## Weeks 1–2: URL Shortener Project (Docker Fundamentals + Deep Dive) – 100% COMPLETE ✅
@@ -18,10 +21,14 @@
 - **Hours Invested:** ~35h (ahead of schedule)
 - **Impact:** Production-grade app LIVE before Christmas – top 1% portfolio proof
 
+## Quick Notes / Blockers
+- Website v0.1 live with hero + project cards – ready for project links
+- Cantrill Progress: Docker Fundamentals + Deep Dive 100% (multi-stage, security, Compose)
+- No blockers – momentum high
+
 ## Next: Week 2 Redis Caching (starting today 15 Dec)
 - Add Redis for duplicate URL detection + instant hot redirect caching
-- Target: Near-instant redirects + reduced DB load
-- Bonus: GitHub Actions full CI/CD
+- Bonus: Full GitHub Actions CI/CD
 
 ## Full Battle Plan Status
 | Week | Milestone | Status |
@@ -36,5 +43,4 @@
 | 15–16| Cloud Resume 2025 | [ ] |
 | 17–20| Portfolio assembly + job launch | [ ] |
 
-**Live Portfolio Site:** https://lukestaws.github.io  
 **Update Frequency:** Every significant milestone or Thursday Boss Day
