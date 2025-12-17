@@ -15,6 +15,7 @@ Future Consultancy Site: aws4less.co.uk (Week 3 migrate)
 
 - **15 Dec 2025**: URL Shortener public deploy LIVE on Fly.io + custom healthy endpoint + Swagger docs
 - Portfolio site updated with live links + screenshots (visual proof shipped)
+- - **17 Dec 2025**: Redis caching LIVE locally – cache hit with 'cached': true flag + message in response
 
 ## Weekly Check-Ins
 
