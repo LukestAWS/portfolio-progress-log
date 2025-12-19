@@ -17,7 +17,7 @@ Future Consultancy Site: aws4less.co.uk (Week 3 migrate)
 - Portfolio site updated with live links + screenshots (visual proof shipped)
 - **17 Dec 2025**: Redis caching LIVE locally – cache hit with 'cached': true flag + message in response
 - **17 Dec 2025**: Redis caching LIVE on public deploy (Upstash serverless) – cache hit with 'cached': true flag proven
-- - 19 Dec 2025: First CDK stack deployed – S3+CloudFront static site live
+- **19 Dec 2025**: First CDK stack deployed – S3+CloudFront static site live
 
 ## Weekly Check-Ins
 
